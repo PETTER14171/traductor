@@ -1,0 +1,14 @@
+# Ignorar carpetas y archivos generados automáticamente
+dist/
+build/
+
+# Ignorar archivos de configuración específicos del sistema
+*.log
+*.env
+
+# Ignorar binarios o ejecutables
+*.exe
+*.pkg
+
+#Se ignora archivo spec
+*.spec
